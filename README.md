@@ -44,6 +44,3 @@ Additionally, make sure to place your `kaggle.json` API key file in the correct 
 - Please use your own Kaggle API key (`kaggle.json`) to access the dataset.
 - Before sharing your own notebooks, make sure to clear outputs and remove sensitive data.
 
-## License
-
-This project is licensed under the MIT License.
